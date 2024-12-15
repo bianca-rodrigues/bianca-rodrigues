@@ -36,9 +36,10 @@ Atualmente estou em busca de um estágio na área de tech.
  <img
   align="left"
   height="200em"
+  widht="100em"     
   src="https://github-readme-stats.vercel.app/api?username=bianca-rodrigues&show_icons=true&theme=radical"/>
   <img
-   height="200em"
+   height="200em"   
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bianca-rodrigues&hide_progress=true"/>
  </p>
 
