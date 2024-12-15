@@ -8,3 +8,5 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/bianca-rodrigues-402b19230/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-rodrigues-402b19230/)
+
+ ![snake gif](https://github.com/bianca-rodrigues/your-user-name/blob/output/github-contribution-grid-snake.gif)
